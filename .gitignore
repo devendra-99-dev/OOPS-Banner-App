@@ -1,0 +1,13 @@
+# compiled class files
+*.class
+#Log files
+*.Log
+# IDE folders
+.vscode/
+.idea/
+# OS files
+.DS_Store
+# Build folder
+build/
+# Out folder
+out/
